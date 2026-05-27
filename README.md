@@ -2,4 +2,4 @@
 
 **“If it has a name, it’s scurvy. If not, it’s a curse.”**
 
-Glossaries and dictionaries about vulnerabilities - coming soon
+Glossaries, dictionaries, nomenclatures and categorizations about vulnerabilities - coming soon
